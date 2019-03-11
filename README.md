@@ -8,7 +8,7 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [X] User sees app icon in home screen and styled launch screen. (1pt)
 - [X] User can sign up to create a new account. (1pt)
 - [X] User can log in. (1pt)
 - [X] User can take a photo, add a caption, and post it to the server. (3pt)
