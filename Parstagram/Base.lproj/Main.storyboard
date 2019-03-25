@@ -68,6 +68,7 @@
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <gestureRecognizers/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
@@ -211,7 +212,7 @@
         <!--Navigation Controller-->
         <scene sceneID="lfo-fI-r4s">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="R2s-7T-NNk" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="FeedNavigationController" automaticallyAdjustsScrollViewInsets="NO" id="R2s-7T-NNk" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="NNE-Mo-yXs">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
